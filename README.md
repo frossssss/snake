@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,androidstudio,apple,au,c,cs,cpp,css,discord,docker,github,gmail,go,gradle,heroku,html,htmx,ai,instagram,java,js,linkedin,linux,lua,notion,php,ps,pr,py,unity,vscode,xd)](https://skillicons.dev)
